@@ -18,6 +18,4 @@ We will fulfill **3** user stories:
 
 ### As a Organic food Consumer
 
-- I want to be to find and purchase product from the site.
-
-So that I can have a centralized food store for organic foods.
+- I want to be to find and purchase product from the site. So that I can have a centralized food store for organic foods.
