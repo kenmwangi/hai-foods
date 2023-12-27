@@ -1,6 +1,10 @@
 import express, { Request, Response } from "express";
 import cors from "cors";
 import "dotenv/config";
+import mongoose from "mongoose";
+
+// DATABASE CONNECTION
+mongoose.connect(process.env.MONGO_URL as string);
 
 // instantiate express app
 const app = express();
